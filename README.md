@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am currently working on the start of my new college course: Computational Classical Mechanics
 <!--
 **johnj2241/johnj2241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
